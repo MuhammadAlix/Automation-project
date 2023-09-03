@@ -9,6 +9,6 @@
  This program will make your account ask for help for a repeated number of times.
  You can give that number in a prompt that appears as you hit that run button.
 
-# Fuild Fest Quests
+# Guild Fest Quests
  This program is supposed to delete guildfest tasks that account for less than a given amount of points.
  But it's still in development process.
